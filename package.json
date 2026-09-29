@@ -1,0 +1,12 @@
+{
+  "name": "frutiger-click-site",
+  "version": "1.0.0",
+  "description": "Frutiger Aero Click Me site for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
